@@ -1,1 +1,1 @@
-# Python-darbi
+# Programmesanas-pamatkurss
